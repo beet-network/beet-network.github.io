@@ -22,14 +22,14 @@ Digital coins are created via consensus, a mechanism that is used in blockchain 
 
 Proofs-of-work rely on computing power, which means the mining operations that rely on these proofs are draining energy at an alarming rate. At the same time, miners are forming pools, which is bringing a sort of centralization to a world that purports to be decentralized.
 
-Proofs-of-space and time—the method we are pioneering at beet Network—don’t rely on computing power but on available disk space. This means creating coins doesn’t require energy. With beet’s system, miners allocate unused disk space to the network, and the probability of successfully “farming” a digital coin being proportional to the amount of space allocated divided by the total capacity of the network.
+Proofs-of-space and time—the method we are pioneering at Beet Network—don’t rely on computing power but on available disk space. This means creating coins doesn’t require energy. With Beet’s system, miners allocate unused disk space to the network, and the probability of successfully “farming” a digital coin being proportional to the amount of space allocated divided by the total capacity of the network.
 
 The proofs-of-space and time are also resistant to centralization or mining pools, which delivers on the early promises of digital currencies: that they remain decentralized.
 
 #### How We Innovate with VDFs
 
 
-beet's consensus algorithm, which is necessary in the creation of new coins, relies on cryptographic protocols called Verifiable Delay Functions (VDFs). Designing implementations for the VDFs we develop is critical in the design of a better blockchain and digital-currency system.
+Beet's consensus algorithm, which is necessary in the creation of new coins, relies on cryptographic protocols called Verifiable Delay Functions (VDFs). Designing implementations for the VDFs we develop is critical in the design of a better blockchain and digital-currency system.
 
 We have some of the best software engineers that can be found anywhere, but we also like to open up the challenge of creating VDF implementations to teams of programmers who can show what our VDFs are really capable of, in terms of both speed and security.
 

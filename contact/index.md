@@ -1,5 +1,5 @@
 ---
 layout: contact
 lang: en
-title: Contact - beet Network
+title: Contact - Beet Network
 ---

@@ -1,5 +1,5 @@
 ---
-title:  "beet cryptomining finally gets pools, as profitability continues to drop"
+title:  "Beet cryptomining finally gets pools, as profitability continues to drop"
 weblink: "https://www.tomshardware.com/news/beet-network-introduces-pooling"
 date:   2021-07-08
 thumbnail: "/assets/news-tomshardware.jpeg"

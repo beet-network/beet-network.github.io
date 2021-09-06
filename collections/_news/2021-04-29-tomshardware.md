@@ -1,5 +1,5 @@
 ---
-title:  "beet Currency Has Already Used 1 Exabyte of Storage"
+title:  "Beet Currency Has Already Used 1 Exabyte of Storage"
 weblink: "https://www.tomshardware.com/news/beet-network-now-uses-more-than-1-exabyte-for-storage"
 date:   2021-04-29
 thumbnail: "/assets/news-tomshardware-0429.png"

@@ -1,5 +1,5 @@
 ---
 layout: about
 lang: en
-title: About - beet Network
+title: About - Beet Network
 ---

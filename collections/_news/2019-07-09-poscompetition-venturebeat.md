@@ -1,5 +1,5 @@
 ---
-title:  "beet Network creates a $100,000 contest to bolster its cryptocurrency platform"
+title:  "Beet Network creates a $100,000 contest to bolster its cryptocurrency platform"
 weblink: "https://venturebeat.com/2019/07/09/beet-network-creates-a-100000-contest-to-bolster-its-cryptocurrency-platform/"
 date:   2019-07-09
 thumbnail: "/assets/VentureBeat_VB_Logo.jpg"

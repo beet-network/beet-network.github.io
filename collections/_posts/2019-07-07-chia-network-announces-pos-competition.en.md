@@ -1,16 +1,16 @@
 ---
 lang: en
 layout: post
-title:  "beet Network Announces Proof of Space Competition with $100k in Total Prize Money"
+title:  "Beet Network Announces Proof of Space Competition with $100k in Total Prize Money"
 date:   2019-07-07
 author: "[Lipa Long](https://github.com/lipalong) and [Bram Cohen](https://twitter.com/bramcohen)"
 ---
 
-We’re excited to announce beet’s Proof of Space competition. In beet’s Proof of Space, rewards are given to farmers that can prove that they are allocating a portion of their disk space to farming beet. In order to be used as a consensus method, Proof of Space is tied to Proof of Time. An open source implementation in C++ is available, that can be used as a [starting point](https://github.com/beet-Network/proofofspace).
+We’re excited to announce Beet’s Proof of Space competition. In Beet’s Proof of Space, rewards are given to farmers that can prove that they are allocating a portion of their disk space to farming Beet. In order to be used as a consensus method, Proof of Space is tied to Proof of Time. An open source implementation in C++ is available, that can be used as a [starting point](https://github.com/Beet-Network/proofofspace).
 
-“We’re making sure that the fundamental building blocks of our protocol are confidence inspiring and available to all,” said Bram Cohen, founder of beet Network. “By having an open competition, we’re making sure that the absolute best implementation anyone has is available to all.”
+“We’re making sure that the fundamental building blocks of our protocol are confidence inspiring and available to all,” said Bram Cohen, founder of Beet Network. “By having an open competition, we’re making sure that the absolute best implementation anyone has is available to all.”
 
-Contestants participating in the three-month competition will create implementations of beet's proof of space consensus algorithm. The proof of space competition will be split into 3 tracks for total awards of $100k in prize money. The 3 tracks are:
+Contestants participating in the three-month competition will create implementations of Beet's proof of space consensus algorithm. The proof of space competition will be split into 3 tracks for total awards of $100k in prize money. The 3 tracks are:
 
 1. Implementation that creates the plot the fastest get a prize. The performance criteria is based on the amount of time to create plot file aka “wall clock time".  
 2. Implementation that uses the least swap space gets a prize. The performance criteria is based on the maximum amount of swap space (disk space + memory) that is used during the plotting process aka “Swap space needed".  
@@ -31,15 +31,15 @@ We will be awarding a total of $100k in prize money. The prize money will be awa
 2. The first prize winner of Track 2 (smallest swap) will receive $25k  
 3. The first prize winner of Track 3 (smallest plot) will receive $50k  
 
-Individuals and teams are invited to join. Entrants will all have access to the specialized computers in beet’s laboratory. Specifications of the reference hardware and further technical details are available on our [GitHub](https://github.com/beet-Network/proofofspace). You can view our pre-commitment [here](https://github.com/beet-Network/proofofspace/blob/master/contest_intro.md). Contestants will be able to communicate with beet during the competition via a secure Keybase channel.
+Individuals and teams are invited to join. Entrants will all have access to the specialized computers in Beet’s laboratory. Specifications of the reference hardware and further technical details are available on our [GitHub](https://github.com/Beet-Network/proofofspace). You can view our pre-commitment [here](https://github.com/Beet-Network/proofofspace/blob/master/contest_intro.md). Contestants will be able to communicate with Beet during the competition via a secure Keybase channel.
 
 ### Steps For Participating
 
-1. Both submissions and communications with the beet team are done via Keybase. After you install the Keybase application, we have two channels available in beet_network.public: #POS_contest (for discussions related to the competition) and #general (for general discussions about beet). To join, type in your terminal: keybase team request-access beet_network.public  
-2. Complete the [Entry Form](https://github.com/beet-Network/proofofspace/blob/master/2019%20beet%20NETWORK%20CHALLENGE%20APPLICATION%20FORM.pdf) together with the signed version of [POS Competition Rules and Disclosures Agreement](https://github.com/beet-Network/proofofspace/blob/master/beet%20Network%20-%20POS%20Contest%20Rules%20and%20Disclosures.pdf). In the case of team participation, each team member must complete both forms and all members must choose the same point of contact. The forms should be sent to Ali Shadle, either via Keybase (@ashadle) or via email (ali@beet.net).  
-3. After we check the registration forms, a private channel will be created for you or your team (beet_network.TEAM_NAME) with engineers from our beet development team as participants. You can ask us questions regarding the competition there.  
+1. Both submissions and communications with the Beet team are done via Keybase. After you install the Keybase application, we have two channels available in beet_network.public: #POS_contest (for discussions related to the competition) and #general (for general discussions about Beet). To join, type in your terminal: keybase team request-access beet_network.public  
+2. Complete the [Entry Form](https://github.com/Beet-Network/proofofspace/blob/master/2019%20BEET%20NETWORK%20CHALLENGE%20APPLICATION%20FORM.pdf) together with the signed version of [POS Competition Rules and Disclosures Agreement](https://github.com/Beet-Network/proofofspace/blob/master/Beet%20Network%20-%20POS%20Contest%20Rules%20and%20Disclosures.pdf). In the case of team participation, each team member must complete both forms and all members must choose the same point of contact. The forms should be sent to Ali Shadle, either via Keybase (@ashadle) or via email (ali@beet.net).  
+3. After we check the registration forms, a private channel will be created for you or your team (beet_network.TEAM_NAME) with engineers from our Beet development team as participants. You can ask us questions regarding the competition there.  
 4. Each team can create shared Keybase Git repositories where code can be submitted. Here (https://keybase.io/blog/encrypted-git-for-everyone) are some instructions about using Keybase Git repositories.  
-5. Check out the pos-competition [Github repo](https://github.com/beet-Network/proofofspace) to see explanations and sample code for proof of space, as well as a sample submission for each track.  
+5. Check out the pos-competition [Github repo](https://github.com/Beet-Network/proofofspace) to see explanations and sample code for proof of space, as well as a sample submission for each track.  
 6. To participate in either track, upload your files to a shared git repository under beet_network.TEAM_NAME.The folder must contain three files: install.sh, plot.sh, and prove.sh, which must all be executable, and start with “#!/bin/sh”. We’ll first run install.sh on our Ubuntu test machine, which should resolve any dependencies, and compile the code. Then we’ll run plot.sh, passing in the ID of the plot in hex. Finally, we will run ./prove.sh <challenge>, for each challenge, and measure the time taken.  
 7. Your entry folder must also include a README file which describes the approach used and specifies which track the submission is for.  
 8. Only the last entry from your team will be judged. At the end of the competition, we’ll judge all entries from all the shared Keybase Github repositories and we’ll announce the winners.  

@@ -1,5 +1,5 @@
 ---
 layout: blog
 lang: en
-title: Blog - beet Network
+title: Blog - Beet Network
 ---

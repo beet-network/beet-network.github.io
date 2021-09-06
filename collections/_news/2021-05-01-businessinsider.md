@@ -1,5 +1,5 @@
 ---
-title:  "A new green cryptocurrency called beet uses a less energy-intensive method of minting new coins."
+title:  "A new green cryptocurrency called Beet uses a less energy-intensive method of minting new coins."
 weblink: "https://markets.businessinsider.com/currencies/news/green-cryptocurrency-beet-less-energy-intensive-bitcoin-crypto-ethereum-altcoins-2021-4-1030373374"
 date:   2021-05-01
 thumbnail: "/assets/news-businessinsider.png"

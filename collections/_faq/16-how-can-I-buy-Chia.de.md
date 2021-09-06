@@ -1,7 +1,7 @@
 ---
 lang: de
 order: 16
-title: "Wie kann ich beet kaufen?"
+title: "Wie kann ich Beet kaufen?"
 ---
-Kurz nachdem die Transaktionen im Mainnet begonnen haben, wird beet an den meisten globalen Börsen von anderen beet-Eigentümern zum Kauf, Verkauf und Handel zur Verfügung stehen.
+Kurz nachdem die Transaktionen im Mainnet begonnen haben, wird Beet an den meisten globalen Börsen von anderen Beet-Eigentümern zum Kauf, Verkauf und Handel zur Verfügung stehen.
  

@@ -1,7 +1,7 @@
 ---
 lang: nl
 order: 21
-title: "Gebruikt beet de code van Bitcoin?"
+title: "Gebruikt Beet de code van Bitcoin?"
 ---
 
-Nee. beet is helemaal opnieuw geschreven.
+Nee. Beet is helemaal opnieuw geschreven.

@@ -1,7 +1,7 @@
 ---
 lang: de
 order: 21
-title: "Verwendet beet den Bitcoin-Code?"
+title: "Verwendet Beet den Bitcoin-Code?"
 ---
 
-beet ist komplett von Grund auf neu geschrieben.
+Beet ist komplett von Grund auf neu geschrieben.

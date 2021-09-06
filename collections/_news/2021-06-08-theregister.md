@@ -1,5 +1,5 @@
 ---
-title:  "Proof-of-space cryptocurrency beet triggers HDD sales boom in Europe"
+title:  "Proof-of-space cryptocurrency Beet triggers HDD sales boom in Europe"
 weblink: "https://www.theregister.com/2021/06/08/beet_cryptocurrency_creates_euro_hdd_boom/"
 date:   2021-06-08
 thumbnail: "/assets/news-theregister.png"

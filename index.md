@@ -1,7 +1,7 @@
 ---
 layout: homemain
 lang: en
-title: Home - beet Network
+title: Home - Beet Network
 redirect_from:
   - /developer/
 ---

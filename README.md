@@ -1,7 +1,7 @@
-beet.net
+Beet.net
 ========
 
-Website for the [beet](https://www.beet.net/) cryptocurrency. Test.
+Website for the [Beet](https://www.beet.net/) cryptocurrency. Test.
 
 Development
 -----------
@@ -10,7 +10,7 @@ To set up your environment and run the server locally:
 
 ```bash
 gem install bundler
-git clone --depth 1 https://github.com/beet-Network/beet-network.github.io.git
+git clone --depth 1 https://github.com/Beet-Network/beet-network.github.io.git
 cd beet-network.github.io
 bundle install
 bundle exec jekyll serve
@@ -24,20 +24,20 @@ To ensure videos work in Chrome/Firefox/Safari/Edge, videos should be encoded as
 
 ```bash
 # use this command to generate the H.264 MP4 version of the video
-ffmpeg -i assets/beet_Launch_original.mp4 -vcodec h264 -acodec aac -strict -2 -movflags +faststart assets/beet_Launch.mp4 # convert video (in any supported format) into H.264 MP4
+ffmpeg -i assets/Beet_Launch_original.mp4 -vcodec h264 -acodec aac -strict -2 -movflags +faststart assets/Beet_Launch.mp4 # convert video (in any supported format) into H.264 MP4
 ```
 
 Then, generate a thumbnail for the video, used as a fallback (when the browser doesn't support video) or shown before the video is loaded:
 
 ```bash
 # extract frame at 0 hours, 0 minutes, and 15 seconds into the video, save it as a JPG
-ffmpeg -ss 00:00:15 -i assets/beet_Launch.mp4 -vframes 1 -q:v 2 assets/beet_Launch.jpg
+ffmpeg -ss 00:00:15 -i assets/Beet_Launch.mp4 -vframes 1 -q:v 2 assets/Beet_Launch.jpg
 ```
 
 Now that you have the H.264 MP4, and the thumbnail JPG, use the following markup in your HTML to include the video (with our cross-browser video component):
 
 ```
-{% include video.html id="some-unique-identifier-for-video" path="/assets/beet_Launch.mp4" mimetype="video/mp4" thumbnail="/assets/beet_Launch.jpg" %}
+{% include video.html id="some-unique-identifier-for-video" path="/assets/Beet_Launch.mp4" mimetype="video/mp4" thumbnail="/assets/Beet_Launch.jpg" %}
 ```
 
 Deployment
@@ -58,7 +58,7 @@ layout: post
 date:   2019-04-04
 
 # also used as title of card preview on Twitter and Facebook
-title:  "beet Network Announces 2nd VDF Competition with $100,000 in Total Prize Money"
+title:  "Beet Network Announces 2nd VDF Competition with $100,000 in Total Prize Money"
 
 # thumbnail image (note: must be a full URL, so it has to start with `https://beet.net/...`)
 # note: this defaults to https://beet.net/android-chrome-384x384.png
@@ -67,7 +67,7 @@ image: https://beet.net/android-chrome-384x384.png
 
 # description of the current page
 # note: this defaults to the first paragraph of the content
-description: "This is a blog post on beet Network's blog."
+description: "This is a blog post on Beet Network's blog."
 
 # content language
 lang: en
@@ -103,7 +103,7 @@ To add a new News Article, create a new file at `collections/_news/<YYYY>-<MM>-<
 
 ```markdown
 ---
-title: "BitTorrent inventor announces eco-friendly bitcoin competitor beet" # title of the news article
+title: "BitTorrent inventor announces eco-friendly bitcoin competitor Beet" # title of the news article
 weblink: "https://techcrunch.com/2017/11/08/beet-network-cryptocurrency/"   # link to online publisher's article
 date: 2017-11-08                                                            # publication date of news article
 thumbnail: "/assets/techcrunch.png"                                         # thumbnail shown with the article
@@ -197,7 +197,7 @@ This may seem inefficient, but GitHub Pages' Jekyll setup currently has no inter
 ---
 layout: homepage
 lang: fr
-title: Accueil - beet Network
+title: Accueil - Beet Network
 ---
 ```
 
