@@ -1,5 +1,5 @@
 ---
 layout: news
 lang: en
-title: News - beet Network
+title: News - Beet Network
 ---

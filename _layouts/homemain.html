@@ -39,7 +39,7 @@ layout: default
                         <a href="/download" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-2"><img src="/assets/icons/beet_leaf_white.svg"> {{ strings.install_box_button }}</a>
                     </div>
                     <div class="px-3 pb-1 pt-0 px-md-5 pb-md-2">
-                        <a href="https://github.com/beet-Network/beet-blockchain" target="_blank" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-3"><img src="/assets/github.svg"> {{ strings.homemain_box_button }}</a>
+                        <a href="https://github.com/Beet-Network/beet-blockchain" target="_blank" rel="noreferrer noopener" class="btn btn-lg d-block mt-2 mb-3"><img src="/assets/github.svg"> {{ strings.homemain_box_button }}</a>
                     </div>
                 </div>
                 <div class="downloads-box mt-5 mx-md-5">
@@ -61,7 +61,7 @@ layout: default
 </div>
 
 <script type="text/javascript">
-fetch("https://api.github.com/repos/beet-Network/beet-blockchain/releases").then(function(response) { return response.json(); }).then(function(jsonResult) {
+fetch("https://api.github.com/repos/Beet-Network/beet-blockchain/releases").then(function(response) { return response.json(); }).then(function(jsonResult) {
     var release = jsonResult[0];
     var releaseNote = release ? release.name + " - " + release.published_at.slice(0, 10) : "{{ strings.homemain_beet_blockchain_no_releases }}";
     document.getElementById("beet-blockchain-latest-release").textContent = releaseNote;

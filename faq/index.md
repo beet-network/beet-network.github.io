@@ -1,5 +1,5 @@
 ---
 layout: faq
 lang: en
-title: FAQ - beet Network
+title: FAQ - Beet Network
 ---

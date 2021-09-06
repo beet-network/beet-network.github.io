@@ -1,5 +1,5 @@
 ---
-title:  "Upcoming Cryptocurrency beet Aims To Challenge Bitcoin’s Throne"
+title:  "Upcoming Cryptocurrency Beet Aims To Challenge Bitcoin’s Throne"
 weblink: "https://btcmanager.com/upcoming-cryptocurrency-beet-aims-to-challenge-bitcoins-throne/"
 date:   2018-03-30
 thumbnail: "/assets/btcmanager.png"

@@ -1,5 +1,5 @@
 ---
 layout: careers
 lang: en
-title: Careers - beet Network
+title: Careers - Beet Network
 ---

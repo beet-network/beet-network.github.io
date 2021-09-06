@@ -1,5 +1,5 @@
 ---
-title:  "beetlisp training commences on Aug 9 with Bram Cohen, creator of beet"
+title:  "Beetlisp training commences on Aug 9 with Bram Cohen, creator of Beet"
 weblink: "https://cointelegraph.com/press-releases/beetlisp-training-commences-on-aug-9-with-bram-cohen-creator-of-beet"
 date:   2021-07-29
 thumbnail: "/assets/cointelegraph.png"

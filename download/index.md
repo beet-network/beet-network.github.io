@@ -4,5 +4,5 @@ lang: en
 redirect_from:
   - /errata/
   - /releases/
-title: Download - beet Network
+title: Download - Beet Network
 ---

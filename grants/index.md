@@ -1,5 +1,5 @@
 ---
 layout: grants
 lang: en
-title: Grants - beet Network
+title: Grants - Beet Network
 ---
