@@ -1,7 +1,7 @@
 ---
 lang: pt
 order: 21
-title: "Chia usa o código do Bitcoin?"
+title: "beet usa o código do Bitcoin?"
 ---
 
-Não. Chia é escrito inteiramente do zero.
+Não. beet é escrito inteiramente do zero.

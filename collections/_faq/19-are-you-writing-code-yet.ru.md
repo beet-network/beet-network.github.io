@@ -6,15 +6,15 @@ title: "Вы еще пишете код?"
 
 Мы почти закончили с 1.0.
 
-Блокчейн Chia состоит из нескольких разных репозиториев.
+Блокчейн beet состоит из нескольких разных репозиториев.
 
 | Репозиторий                                                                 | Содержит                                                                      |
 |----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain)         | Код посвященный консенсусу, сетевому взаимодействию и эталонной имплементации Chialisp.           |
-| [chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) | Графический интерфейс пользователя на Electron/React для плоттера, узла и кошельков. |
-| [clvm](https://github.com/Chia-Network/clvm)                               | Виртуальная машина Chialisp на Python                                            |
-| [clvm-rs](https://github.com/Chia-Network/clvm_rs)                         | Виртуальная машина Chialisp на Rust для безопасности и производительности.                |
-| [chiapos](https://github.com/Chia-Network/chiapos)                         | Создание участков и валидация Доказательств пространства (Proofs of Space).                                 |
-| [chiavdf](https://github.com/Chia-Network/chiavdf)                         | Доказательства времени/VDF и Таймлорды.                                            |
-| [bls-signatures](https://github.com/Chia-Network/bls-signatures)           | Схема подписи стандарта IETF BLS-12-381                                    |
-| [clvm_tools](https://github.com/Chia-Network/clvm_tools)                   | Инструменты для Chialisp и CLVM.                                                  |
+| [beet-blockchain](https://github.com/beet-Network/beet-blockchain)         | Код посвященный консенсусу, сетевому взаимодействию и эталонной имплементации beetlisp.           |
+| [beet-blockchain-gui](https://github.com/beet-Network/beet-blockchain-gui) | Графический интерфейс пользователя на Electron/React для плоттера, узла и кошельков. |
+| [clvm](https://github.com/beet-Network/clvm)                               | Виртуальная машина beetlisp на Python                                            |
+| [clvm-rs](https://github.com/beet-Network/clvm_rs)                         | Виртуальная машина beetlisp на Rust для безопасности и производительности.                |
+| [beetpos](https://github.com/beet-Network/beetpos)                         | Создание участков и валидация Доказательств пространства (Proofs of Space).                                 |
+| [beetvdf](https://github.com/beet-Network/beetvdf)                         | Доказательства времени/VDF и Таймлорды.                                            |
+| [bls-signatures](https://github.com/beet-Network/bls-signatures)           | Схема подписи стандарта IETF BLS-12-381                                    |
+| [clvm_tools](https://github.com/beet-Network/clvm_tools)                   | Инструменты для beetlisp и CLVM.                                                  |
