@@ -6,7 +6,7 @@ date:   2019-07-17
 author: "[Ali Shadle](https://twitter.com/AliShadle)"
 ---
 
-Following the release of our [green paper](https://www.beet.net/assets/BeetGreenPaper.pdf) and the launch of our [Proof of Space competition](https://www.beet.net/2019/07/07/beet-network-announces-pos-competition.en.html) Beet has received lots of positive attention from media outlets including Venture Beat and Yahoo Finance and the community at large.
+Following the release of our [green paper](https://www.beetnetwork.org/assets/BeetGreenPaper.pdf) and the launch of our [Proof of Space competition](https://www.beetnetwork.org/2019/07/07/beet-network-announces-pos-competition.en.html) Beet has received lots of positive attention from media outlets including Venture Beat and Yahoo Finance and the community at large.
 [Decrypt Media](https://decrypt.co), an independent website dedicated to cryptocurrency news, reached out to interview Bram Cohen, founder and CTO of Beet.
 They were interested in where Beet envisioned itself in the wider cryptocurrency eco-system and how Beet improved upon existing cryptocurrencies. You can read their full interview [here](https://decrypt.co/7793/bram-cohen-at-last-releases-his-beet-network-green-paper).
 

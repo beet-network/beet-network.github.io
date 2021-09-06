@@ -5,7 +5,7 @@ title: "Onde posso aprender mais sobre os detalhes técnicos do seu algoritmo de
 ---
 
 Temos trabalhos acadêmicos e apresentações que fornecem detalhes sobre nosso novo algoritmo de consenso e software blockchain.
-Em 2019, revelamos nosso [Livro Verde](https://www.beet.net/assets/BeetGreenPaper.pdf) descrevendo a construção de Provas de espaço e tempo e ilustrando muitas das opções de design de Beet.
+Em 2019, revelamos nosso [Livro Verde](https://www.beetnetwork.org/assets/BeetGreenPaper.pdf) descrevendo a construção de Provas de espaço e tempo e ilustrando muitas das opções de design de Beet.
 
 Bram Cohen [apresentado](https://www.youtube.com/watch?v=2Zlcgt8FVz4) em Stanford, em fevereiro de 2018, no Proofs of Space. Nossos conselheiros, Dan Boneh, Benedikt Bünz e Ben Fisch [publicaram uma pesquisa de VDFs](https://eprint.iacr.org/2018/712.pdf), que são a tecnologia subjacente da Prova de Tempo.
 

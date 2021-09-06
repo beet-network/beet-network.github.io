@@ -168,7 +168,7 @@ for setuptools_scm/PEP 440 reasons.
 ### Added
 
 - Rate limited wallets can now have unspent and un-spendable funds clawed back by the Admin wallet.
-- You can now backup your wallet related metadata in an encrypted and signed file to a free service from Beet Network at backup.beet.net. Simply having a backup of your private key will allow you to fully restore the state of your wallet including coloured coins, rate limited wallets, distributed identity wallets and many more. Your private key is used to automatically restore the last backup you saved to the Beet backup cloud service. This service is open source and ultimately you will be able to configure your backups to go to backup.beet.net, your own installation, or a third party's version of it.
+- You can now backup your wallet related metadata in an encrypted and signed file to a free service from Beet Network at backup.beetnetwork.org. Simply having a backup of your private key will allow you to fully restore the state of your wallet including coloured coins, rate limited wallets, distributed identity wallets and many more. Your private key is used to automatically restore the last backup you saved to the Beet backup cloud service. This service is open source and ultimately you will be able to configure your backups to go to backup.beetnetwork.org, your own installation, or a third party's version of it.
 - Added a Code of Conduct in CODE_OF_CONDUCT.md.
 - Added a bug report template in `.github/ISSUE_TEMPLATE/bug_report.md`.
 
@@ -501,7 +501,7 @@ relic. We will make a patch available for these systems shortly.
 
 ### Added
 
-- This release adds Coloured coin support with offers. Yes that is the correct spelling. Coloured coins allow you to issue a coin, token, or asset with nearly unlimited issuance plans and functionality. They support inner smart transactions so they can inherit any of the other functionality you can implement in Beetlisp. Offers are especially cool as they create a truly decentralized exchange capability. Read much more about them in Bram's [blog post on Coloured coins](https://beet.net/2020/04/29/coloured-coins-launch.en.html).
+- This release adds Coloured coin support with offers. Yes that is the correct spelling. Coloured coins allow you to issue a coin, token, or asset with nearly unlimited issuance plans and functionality. They support inner smart transactions so they can inherit any of the other functionality you can implement in Beetlisp. Offers are especially cool as they create a truly decentralized exchange capability. Read much more about them in Bram's [blog post on Coloured coins](https://beetnetwork.org/2020/04/29/coloured-coins-launch.en.html).
 - This release adds support for native Windows via a (mostly) automated installer and MacOS Mojave. Windows still requires some PowerShell command line use. You should expect ongoing improvements in ease of install and replication of the command line tools in the GUI. Again huge thanks to @dkackman for continued Windows installer development. Native Windows is currently slightly slower than the same version running in WSL 2 on the same machine for both block verification and plotting.
 - We made some speed improvements that positively affected all platforms while trying to increase plotting speed in Windows.
 - The graphical Full Node display now shows the expected finish times of each of the prospective chain tips.
@@ -756,7 +756,7 @@ relic. We will make a patch available for these systems shortly.
 ### Added
 
 - This is the first release of the Beet testnet! Blockchain consensus, proof of time, and proof of space are included.
-- More details on the release at [https://www.beet.net/developer/](https://www.beet.net/developer/)
+- More details on the release at [https://www.beetnetwork.org/developer/](https://www.beetnetwork.org/developer/)
 
 [unreleased]: https://github.com/Beet-Network/beet-blockchain/compare/1.0beta5...dev
 [1.0beta5]: https://github.com/Beet-Network/beet-blockchain/compare/1.0beta4...1.0beta5

@@ -4,4 +4,4 @@ order: 24
 title: "Neden bu yarışmaları yapıyorsun?"
 ---
 
-Kodumuzdaki daha fazla gözün sadece daha iyi hale getireceğine inanıyoruz. Örneğin, [VDF Yarışmamızın Sonuçları](https://www.beet.net/2019/01/17/beet-vdf-competition-round-1-results-and-announcements.en.html) çalışma süremiz orijinal uygulamamızdan% 80 daha hızlı olan bir VDF uygulaması üretti.
+Kodumuzdaki daha fazla gözün sadece daha iyi hale getireceğine inanıyoruz. Örneğin, [VDF Yarışmamızın Sonuçları](https://www.beetnetwork.org/2019/01/17/beet-vdf-competition-round-1-results-and-announcements.en.html) çalışma süremiz orijinal uygulamamızdan% 80 daha hızlı olan bir VDF uygulaması üretti.

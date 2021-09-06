@@ -7,7 +7,7 @@
 
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://beet.net" # the base hostname & protocol for your site
+url: "https://beetnetwork.org" # the base hostname & protocol for your site
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
@@ -29,7 +29,7 @@ social:
     - https://instagram.com/beet_project
     - https://www.linkedin.com/company/beet-network/
     - https://github.com/Beet-Network
-    - https://medium.com/@beet.net
+    - https://medium.com/@beetnetwork.org
     - https://keybase.io/team/beet_network.public
 google_analytics_snippet: |
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -45,7 +45,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://beet.net/android-chrome-384x384.png
+      image: https://beetnetwork.org/android-chrome-384x384.png
 
 collections_dir: collections
 collections:

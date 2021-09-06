@@ -5,7 +5,7 @@ title: "Waar kan ik meer te weten komen over de technische details van uw consen
 ---
 
 We hebben academische papers en presentaties die details geven over ons nieuwe consensus-algoritme en blockchain-software.
-In 2019 hebben we onze onthuld [Groenboek](https://www.beet.net/assets/BeetGreenPaper.pdf) waarin de constructie van Bewijzen van Ruimte en Tijd wordt beschreven en veel van de ontwerpkeuzes van Beet worden geïllustreerd.
+In 2019 hebben we onze onthuld [Groenboek](https://www.beetnetwork.org/assets/BeetGreenPaper.pdf) waarin de constructie van Bewijzen van Ruimte en Tijd wordt beschreven en veel van de ontwerpkeuzes van Beet worden geïllustreerd.
 Er is ook een [2019 talk van Mariano Sorgente](https://youtu.be/_075bzQPooU) op MIT over hoe Nakamoto consensus te bereiken met Proof of Space en VDF's.
 
 Bram Cohen [gepresenteerd](https://www.youtube.com/watch?v=2Zlcgt8FVz4) op Stanford in februari 2018 over Proofs of Space. Onze adviseurs, Dan Boneh, Benedikt Bünz en Ben Fisch [hebben een overzicht van VDF's gepubliceerd](https://eprint.iacr.org/2018/712.pdf), de onderliggende technologie van Proof of Time.

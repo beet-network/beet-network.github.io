@@ -6,7 +6,7 @@ date:   2019-04-04
 author: "[Matt Howard](https://github.com/matt-o-how) and [Bram Cohen](https://twitter.com/bramcohen)"
 ---
 
-A few months ago we wrapped up our initial VDF implementation competition and were amazed by the excellent quality of the submissions. The top three contenders each came in at under one minute (the reference implementation was 169 seconds). Five other teams also submitted implementations which were faster than the reference. All of the submissions were open-source, and can be found [here](https://www.beet.net/2019/01/17/beet-vdf-competition-round-1-results-and-announcements.en.html). The award total was originally $100,000, but because of the hard work that all of the teams put into the competition, we decided to award $2,000 to each team who submitted an entry, bringing the total prize money awarded to $116,000.
+A few months ago we wrapped up our initial VDF implementation competition and were amazed by the excellent quality of the submissions. The top three contenders each came in at under one minute (the reference implementation was 169 seconds). Five other teams also submitted implementations which were faster than the reference. All of the submissions were open-source, and can be found [here](https://www.beetnetwork.org/2019/01/17/beet-vdf-competition-round-1-results-and-announcements.en.html). The award total was originally $100,000, but because of the hard work that all of the teams put into the competition, we decided to award $2,000 to each team who submitted an entry, bringing the total prize money awarded to $116,000.
 
 We are proud to announce a second competition, challenging entrants to improve on our new reference implementation.
 
@@ -29,7 +29,7 @@ Contestants will be able to communicate with Beet during the competition via a s
 <br>
 1. Both submissions and communications with the Beet team are done via [Keybase](https://keybase.io/team/beet_network.public). After you install the Keybase application, we have two channels available in beet_network.public: #VDF_contest (for discussions related to the competition) and #general (for general discussions about Beet). To join, type in your terminal: keybase team request-access beet_network.public
 
-2. Complete the [Entry Form](https://github.com/Beet-Network/vdf-competition/blob/master/Application%20Form.pdf) together with the signed version of [VDF Competition Rules and Disclosures Agreement](https://github.com/Beet-Network/vdf-competition/blob/master/Rules%20and%20Disclosures.pdf). In the case of team participation, each team member must complete both forms and all members must choose the same point of contact. The forms should be sent to Ali Shadle, either via Keybase (@ashadle) or via email (ali@beet.net).
+2. Complete the [Entry Form](https://github.com/Beet-Network/vdf-competition/blob/master/Application%20Form.pdf) together with the signed version of [VDF Competition Rules and Disclosures Agreement](https://github.com/Beet-Network/vdf-competition/blob/master/Rules%20and%20Disclosures.pdf). In the case of team participation, each team member must complete both forms and all members must choose the same point of contact. The forms should be sent to Ali Shadle, either via Keybase (@ashadle) or via email (ali@beetnetwork.org).
 
 3. After we check the registration forms, a private channel will be created for you or your team (beet_network.TEAM_NAME) with engineers from our Beet development team as participants. You can ask us questions regarding the competition there.
 
@@ -46,6 +46,6 @@ Contestants will be able to communicate with Beet during the competition via a s
 9. We have deployed a system to run your entry on the reference machine and give feedback on how well it performed. You can use the VDF chat bot to run KeyBase git repo submissions on our reference hardware. You can test your results by sending the bolded message below to vdf_bot in your KeyBase private channel. vdf_bot will then report back to you the timing results or any errors that occur: /vdf judge_speed keybase://team/beet_network.TEAM_NAME/entry
 
 
-To learn more or enter the competition, please visit [here](https://www.beet.net/) or join our [Keybase](https://keybase.io/team/beet_network.public) channel.
+To learn more or enter the competition, please visit [here](https://www.beetnetwork.org/) or join our [Keybase](https://keybase.io/team/beet_network.public) channel.
 
 We hope you participate!

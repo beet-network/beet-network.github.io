@@ -18,4 +18,4 @@ Assuming that test launch and RC8 testnet blockchain goes well, we will plan to 
 
 There remains a 10% chance that we will postpone into the week of March 22, 2021 if RC8 is not as smooth as it needs to be.
 
-Once these plans finalize we will announce them through the #announcement channel on our [public Keybase](https://keybase.io/team/beet_network.public), here on the [blog](https://www.beet.net/blog/), and via our various [email update lists and social media accounts](https://www.beet.net/contact/).
+Once these plans finalize we will announce them through the #announcement channel on our [public Keybase](https://keybase.io/team/beet_network.public), here on the [blog](https://www.beetnetwork.org/blog/), and via our various [email update lists and social media accounts](https://www.beetnetwork.org/contact/).

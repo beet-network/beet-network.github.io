@@ -22,7 +22,7 @@ Techniques from ALL contestants will likely be incorporated to further improve t
 
 The source code for all entries for both tracks is included in this [repository](https://github.com/Beet-Network/vdfcontest2results).  
 
-Please consider entering our [current competition](https://www.beet.net/2019/07/07/beet-network-announces-pos-competition.en.html) for improving the [Proof of Space](https://github.com/Beet-Network/proofofspace) algorithm. Proof of Space is heavily dependent on sorting and disk I/O and there should be many possibilities for improvement over the reference implementation. There is also a Hellman attack (time/memory tradeoff) example for those who would like to see how much space they can save by maxing out the computational power of the reference hardware.  
+Please consider entering our [current competition](https://www.beetnetwork.org/2019/07/07/beet-network-announces-pos-competition.en.html) for improving the [Proof of Space](https://github.com/Beet-Network/proofofspace) algorithm. Proof of Space is heavily dependent on sorting and disk I/O and there should be many possibilities for improvement over the reference implementation. There is also a Hellman attack (time/memory tradeoff) example for those who would like to see how much space they can save by maxing out the computational power of the reference hardware.  
 
 ## Track 1 Results (SIMD/GPU) avg sec  
 
