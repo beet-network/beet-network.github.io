@@ -41,7 +41,7 @@ Assume malicious intent and verify things for yourself. Being reasonably paranoi
 ### Your Habits
 * Do not trust anyone. Assume malicious intent, especially on the internet.
 * Do not share your 24 word mnemonic key(s) with anyone. 
-* When downloading Beet software, make sure you are downloading from the `beet.net` domain. 
+* When downloading Beet software, make sure you are downloading from the `beetnetwork.org` domain. 
 * Avoid public Wifi, but if you use public Wifi, use a VPN
 * Don't become a target: Don't boast about your winnings. Keep it to yourself.
 
@@ -67,7 +67,7 @@ Read more here: [Beet Keys Management](https://github.com/Beet-Network/beet-bloc
 Do you actually know the person you are talking to online is who they say they are? Do you know if the website you're on is legitimate? 
 
 Spearphishing is a targeted attack where you are scammed in some way through legitimate-looking fake websites or message.
-* When downloading Beet installers, verify the website you are on is `beet.net` and make sure there is a lock icon in the address bar.
+* When downloading Beet installers, verify the website you are on is `beetnetwork.org` and make sure there is a lock icon in the address bar.
 * Anyone contacting you through email or messaging apps could be potentially trying to scam you. Beware of the links and files they send you. Double check who they say they are. You can read more about phishing and how to protect yourself [here](https://www.phishing.org/what-is-phishing). 
 
 ### Third-party Tools and Scripts

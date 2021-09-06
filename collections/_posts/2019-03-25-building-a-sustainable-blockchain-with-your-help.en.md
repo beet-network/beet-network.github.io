@@ -33,7 +33,7 @@ Beet's consensus algorithm, which is necessary in the creation of new coins, rel
 
 We have some of the best software engineers that can be found anywhere, but we also like to open up the challenge of creating VDF implementations to teams of programmers who can show what our VDFs are really capable of, in terms of both speed and security.
 
-A few months ago we wrapped up our first VDF implementation competition, and were amazed by the excellent quality of the submissions. The top three contenders each came in at under one minute (the reference implementation was 169 seconds). Five other teams also finished implementations faster than the reference point. All submitted code was open-source, and can be found [here](https://www.beet.net/2019/01/17/beet-vdf-competition-round-1-results-and-announcements.en.html).
+A few months ago we wrapped up our first VDF implementation competition, and were amazed by the excellent quality of the submissions. The top three contenders each came in at under one minute (the reference implementation was 169 seconds). Five other teams also finished implementations faster than the reference point. All submitted code was open-source, and can be found [here](https://www.beetnetwork.org/2019/01/17/beet-vdf-competition-round-1-results-and-announcements.en.html).
 
 The second VDF competition will be split into two tracks:
 

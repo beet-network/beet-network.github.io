@@ -5,7 +5,7 @@ title: "Wo kann ich mehr über die technischen Details Ihres Konsensalgorithmus 
 ---
 
 Wir haben wissenschaftliche Arbeiten und Präsentationen, die Details zu unserem neuen Konsensalgorithmus und unserer Blockchain-Software enthalten.
-Im Jahr 2019 haben wir unsere enthüllt [Grünes Papier](https://www.beet.net/assets/BeetGreenPaper.pdf) skizziert die Konstruktion von Beweisen für Raum und Zeit und veranschaulicht viele der Designentscheidungen von Beet.
+Im Jahr 2019 haben wir unsere enthüllt [Grünes Papier](https://www.beetnetwork.org/assets/BeetGreenPaper.pdf) skizziert die Konstruktion von Beweisen für Raum und Zeit und veranschaulicht viele der Designentscheidungen von Beet.
 Da ist auch ein [Vortrag 2019 von Mariano Sorgente](https://youtu.be/_075bzQPooU) am MIT darüber, wie man mit Proof of Space und VDFs einen Nakamoto-Konsens erzielt.
 
 Bram Cohen [vorgestellt](https://www.youtube.com/watch?v=2Zlcgt8FVz4) in Stanford am Februar 2018 auf Proofs of Space. Our advisors, Dan Boneh, Benedikt Bünz, und Ben Fisch [veröffentlichte eine Umfrage unter VDFs](https://eprint.iacr.org/2018/712.pdf) Welches sind die zugrunde liegenden Technologien von Proof of Time.

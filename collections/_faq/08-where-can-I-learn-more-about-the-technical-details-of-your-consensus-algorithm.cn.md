@@ -5,7 +5,7 @@ title: “在哪裡可以了解有關您的共識算法的技術細節的更多�
 ---
 
 我們有學術論文和演講，詳細介紹了我們的新共識算法和區塊鏈軟件。
-在2019年，我們透露了我們的[綠皮書](https://www.beet.net/assets/BeetGreenPaper.pdf) 概述了時空證明的構造，並說明了Beet的許多設計選擇。
+在2019年，我們透露了我們的[綠皮書](https://www.beetnetwork.org/assets/BeetGreenPaper.pdf) 概述了時空證明的構造，並說明了Beet的許多設計選擇。
 還有一個 [Mariano Sorgente在2019年的演講](https://youtu.be/_075bzQPooU) 在麻省理工學院就如何通過空間證明和VDF實現中本元共識達成共識。
 
 Bram Cohen [提出了](https://www.youtube.com/watch?v=2Zlcgt8FVz4) 在太空證明上於2018年2月在斯坦福大學舉行。 我們的顧問, Dan Boneh, Benedikt Bünz, 和 Ben Fisch [發表了對VDF的調查](https://eprint.iacr.org/2018/712.pdf) 這是時間證明的基礎技術。

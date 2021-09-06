@@ -1,7 +1,7 @@
-Beet.net
+beetnetwork.org
 ========
 
-Website for the [Beet](https://www.beet.net/) cryptocurrency. Test.
+Website for the [Beet](https://www.beetnetwork.org/) cryptocurrency. Test.
 
 Development
 -----------
@@ -43,7 +43,7 @@ Now that you have the H.264 MP4, and the thumbnail JPG, use the following markup
 Deployment
 ----------
 
-Push to a GitHub repository, making sure the repository is set up with `https://www.beet.net` as a [custom domain name](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
+Push to a GitHub repository, making sure the repository is set up with `https://www.beetnetwork.org` as a [custom domain name](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
 
 Content Management
 ------------------
@@ -60,10 +60,10 @@ date:   2019-04-04
 # also used as title of card preview on Twitter and Facebook
 title:  "Beet Network Announces 2nd VDF Competition with $100,000 in Total Prize Money"
 
-# thumbnail image (note: must be a full URL, so it has to start with `https://beet.net/...`)
-# note: this defaults to https://beet.net/android-chrome-384x384.png
+# thumbnail image (note: must be a full URL, so it has to start with `https://beetnetwork.org/...`)
+# note: this defaults to https://beetnetwork.org/android-chrome-384x384.png
 # note: test this using https://cards-dev.twitter.com/validator and https://developers.facebook.com/tools/debug/sharing/
-image: https://beet.net/android-chrome-384x384.png
+image: https://beetnetwork.org/android-chrome-384x384.png
 
 # description of the current page
 # note: this defaults to the first paragraph of the content

@@ -8,7 +8,7 @@ author: "[Jonmichael Hands](https://twitter.com/LebanonJon)"
 
 ## Overview of Beet plotting and farming
 
-The [Beet ](https://www.beet.net/)project is based on [proofs of space and time](https://www.beet.net/faq/), a brand new Nakamoto consensus allowing for underutilized storage capacity to secure the blockchain. Proofs of space are stored in plot files, where a commonly used k=32 plot is 101.3GiB (108.8 GB, or Gigabytes). Generating plot files is a process called plotting, which requires temporary storage space, compute and memory to create, sort, and compress the data into the final file. This process takes an estimated 256.6GB of temporary space, very commonly stored on SSDs to speed up the process, and approximately 1.3TiB of writes during the creation. The community realized early on that guidance was needed for SSD endurance, and a [wiki ](https://github.com/Beet-Network/beet-blockchain/wiki/SSD-Endurance)was created to help users select the proper SSD for plotting.
+The [Beet ](https://www.beetnetwork.org/)project is based on [proofs of space and time](https://www.beetnetwork.org/faq/), a brand new Nakamoto consensus allowing for underutilized storage capacity to secure the blockchain. Proofs of space are stored in plot files, where a commonly used k=32 plot is 101.3GiB (108.8 GB, or Gigabytes). Generating plot files is a process called plotting, which requires temporary storage space, compute and memory to create, sort, and compress the data into the final file. This process takes an estimated 256.6GB of temporary space, very commonly stored on SSDs to speed up the process, and approximately 1.3TiB of writes during the creation. The community realized early on that guidance was needed for SSD endurance, and a [wiki ](https://github.com/Beet-Network/beet-blockchain/wiki/SSD-Endurance)was created to help users select the proper SSD for plotting.
 
 
 ## SSD Market and Endurance
@@ -36,7 +36,7 @@ Macbooks that use the new Apple M1 chip saw users reporting accelerated SSD wear
 
 ## Questions or concerns, and note for SSD vendors
 
-Please reach out to Jonmichael Hands, VP of Storage Business Development, if you are an SSD vendor, partner, cloud provider, or have any Beet and storage use questions. Send and email to hello@beet.net to get connected.
+Please reach out to Jonmichael Hands, VP of Storage Business Development, if you are an SSD vendor, partner, cloud provider, or have any Beet and storage use questions. Send and email to hello@beetnetwork.org to get connected.
 
 
 ```

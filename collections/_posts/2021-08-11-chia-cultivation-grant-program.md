@@ -13,7 +13,7 @@ Beet Networks is excited to announce the **Beet Cultivation Grant program**. As 
 
 Recipients of this grant are people or teams who have caught the eye of Beet’s senior leadership and presented a compelling proposal as to why they feel their vision, talent, and expertise are uniquely positioned to add material value to the community through the creation of Beetlisp applications, Wallets, blockchain tools, and other projects. We plan to recognize this potential value by providing to them some modest financial support to help realize their vision, as well as highlighting the potential value Beet feels they bring to the ecosystem with promotional assets and support.
 
-To further support this program we have launched the [Beet Cultivation Grant homepage](https://www.beet.net/grants), which currently reflects a basic outline of the program, but as time goes on will soon also showcase profiles of current recipients of the grant, an FAQ, and more. Until then, watch that space for more updates, and if you have a team with a project vision you think would be a potential candidate for a Grant, you can reach out to us at the contact info posted on that page!
+To further support this program we have launched the [Beet Cultivation Grant homepage](https://www.beetnetwork.org/grants), which currently reflects a basic outline of the program, but as time goes on will soon also showcase profiles of current recipients of the grant, an FAQ, and more. Until then, watch that space for more updates, and if you have a team with a project vision you think would be a potential candidate for a Grant, you can reach out to us at the contact info posted on that page!
 
 ---
 ## FAQ

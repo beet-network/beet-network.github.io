@@ -5,7 +5,7 @@ title: "¿Dónde puedo obtener más información sobre los detalles técnicos de
 ---
 
 Tenemos trabajos académicos y presentaciones que dan detalles sobre nuestro nuevo algoritmo de consenso y el software blockchain.
-En 2019 revelamos nuestro [Libro Verde](https://www.beet.net/assets/BeetGreenPaper.pdf) describiendo la construcción de Pruebas de espacio y tiempo e ilustrando muchas de las opciones de diseño de Beet.
+En 2019 revelamos nuestro [Libro Verde](https://www.beetnetwork.org/assets/BeetGreenPaper.pdf) describiendo la construcción de Pruebas de espacio y tiempo e ilustrando muchas de las opciones de diseño de Beet.
 También hay una [charla de 2019 de Mariano Sorgente](https://youtu.be/_075bzQPooU) en el MIT sobre cómo lograr el consenso de Nakamoto con Proof of Space y VDF.
 
 Bram Cohen [presentado](https://www.youtube.com/watch?v=2Zlcgt8FVz4) en Stanford en febrero de 2018 en Proofs of Space. Nuestros asesores, Dan Boneh, Benedikt Bünz y Ben Fisch [publicaron una encuesta de VDF](https://eprint.iacr.org/2018/712.pdf), que son la tecnología subyacente de Proof of Time.

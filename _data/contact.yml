@@ -1,12 +1,12 @@
 name: Beet Network
 
 # official company email (if specified, will be displayed in footer and other places)
-email: hello@beet.net
+email: hello@beetnetwork.org
 
 # social media profiles (if specified, will be displayed in footer and used for SEO)
 twitter_username: beet_project
 github_username: Beet-Network
 facebook_username: BeetProject
-medium_username: beet.net
+medium_username: beetnetwork.org
 instagram_username: beet_project
 keybase_team_page: https://keybase.io/team/beet_network.public

@@ -46,7 +46,7 @@ If Bram Cohen had wanted to do a rug pull, he would have led with an (illegal) I
 
 Also, plotting on HDDs is slower but possible (and a lot of work went into ensuring that the stock plotter supports this). Alternative plotters again may be much lighter on writes, at the cost of higher RAM usage.
 
-You can learn more here: [Beet and SSD Endurance](https://www.beet.net/2021/05/24/SSD-endurance.html)
+You can learn more here: [Beet and SSD Endurance](https://www.beetnetwork.org/2021/05/24/SSD-endurance.html)
 
 ---
 

@@ -4,7 +4,7 @@ order: 8
 title: "Fikir birliği algoritmanızın teknik detayları hakkında nereden daha fazla bilgi edinebilirim?"
 ---
 
-Yeni fikir birliği algoritması ve blockchain yazılımımız hakkında ayrıntılı bilgi veren akademik makalelerimiz ve sunumlarımız var. 2019 yılında [Yeşil Kağıt](https://www.beet.net/assets/BeetGreenPaper.pdf) Uzay ve Zaman Kanıtı'nın inşasını özetliyor ve Beet'nın tasarım seçeneklerinin çoğunu gösteriyor.
+Yeni fikir birliği algoritması ve blockchain yazılımımız hakkında ayrıntılı bilgi veren akademik makalelerimiz ve sunumlarımız var. 2019 yılında [Yeşil Kağıt](https://www.beetnetwork.org/assets/BeetGreenPaper.pdf) Uzay ve Zaman Kanıtı'nın inşasını özetliyor ve Beet'nın tasarım seçeneklerinin çoğunu gösteriyor.
 Ayrıca bir [2019 -den konuşmak Mariano Sorgente](https://youtu.be/_075bzQPooU) MIT'de Nakil Kanıtı ve VDF'ler ile Nakamoto konsensüsüne nasıl ulaşılacağı konusunda.
 
 Bram Cohen [sunulan](https://www.youtube.com/watch?v=2Zlcgt8FVz4) Şubat 2018'de Stanof'da Uzay Kanıtı. Danışmanlarımız, Dan Boneh, Benedikt Bünz, and Ben Fisch [VFD'lerle ilgili bir anket yayınladı](https://eprint.iacr.org/2018/712.pdf) Zamanın İspatının altında yatan teknoloji.
