@@ -1,12 +1,12 @@
 ---
 lang: en
 layout: post
-title:  "Chia VDF Competition Round 1 Results and Announcements"
+title:  "beet VDF Competition Round 1 Results and Announcements"
 date:   2019-01-17
 author: "[Bill Blanke](https://github.com/wjblanke)"
 ---
 
-Thank you to everyone who participated in the first round of Chia Network’s Verifiable Delay Function (VDF) competition. The round concluded on January 3rd, 2019 with many excellent submissions from the participants. The quality of the entries exceeded our expectations, and we’re happy that the competition format proved successful. The teams used a variety of approaches, contributed to interesting discussions on our Keybase channels, and massively improved upon our reference implementation. The entries are helping us learn a lot about how to create a better VDF.
+Thank you to everyone who participated in the first round of beet Network’s Verifiable Delay Function (VDF) competition. The round concluded on January 3rd, 2019 with many excellent submissions from the participants. The quality of the entries exceeded our expectations, and we’re happy that the competition format proved successful. The teams used a variety of approaches, contributed to interesting discussions on our Keybase channels, and massively improved upon our reference implementation. The entries are helping us learn a lot about how to create a better VDF.
 
 We’re excited to announce the results of Track 1 for this first round of competition (**Track 2 will be announced after we review additional documentation submitted by the entrants**):
 
@@ -23,13 +23,13 @@ Track 1
 
 Reference implementation: 169 seconds
 
-Passphrase for contest discriminants: chia until sweet pleasant full sleep
+Passphrase for contest discriminants: beet until sweet pleasant full sleep
 
 Two Track 1 teams were disqualified: cryptoslava (six discriminants did not finish, but the four discriminants which did work ran in an average of 34.69 seconds), and poanetwork (working entry was submitted after the deadline, with average run time of 132.16 seconds).
 
 Because of all the hard work the teams put into the competition, in addition to the first and second place Track 1 prizes ($40,000 to first place and $20,000 to second place), we’ve decided to also award $2000 prize money to each of the other Track 1 teams who entered the contest.
 
-All of the code from participating teams is open source and can be found at [https://github.com/Chia-Network/vdftrack1results](https://github.com/Chia-Network/vdftrack1results).
+All of the code from participating teams is open source and can be found at [https://github.com/beet-Network/vdftrack1results](https://github.com/beet-Network/vdftrack1results).
 
 One of the most significant optimizations incorporated by several teams was the use of the NUDUPL algorithm, a squaring version of the more general composition algorithm NUCOMP, which was first introduced by Shanks in 1989 \[1\]. NUDUPL incorporates partial reduction during squaring, decreasing the complexity of the intermediary operands. Since Shank’s introduction of the algorithm, others have improved upon NUDUPL and demonstrated its efficiency over classical composition algorithms (see, for instance, \[2\], \[3\], \[4\]).
 

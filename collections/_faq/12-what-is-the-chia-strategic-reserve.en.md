@@ -1,9 +1,9 @@
 ---
 lang: en
 order: 12
-title: "What is the Chia Strategic Reserve?"
+title: "What is the beet Strategic Reserve?"
 ---
 
-Chia will pre-farm a large supply of coins at network launch to help stabilize and grow the Chia economy through Chia’s novel business plan of lending Chia.
+beet will pre-farm a large supply of coins at network launch to help stabilize and grow the beet economy through beet’s novel business plan of lending beet.
 
-Our [Business Whitepaper](https://www.chia.net/assets/Chia-Business-Whitepaper-2021-02-09-v1.0.pdf) has the details.
+Our [Business Whitepaper](https://www.beet.net/assets/beet-Business-Whitepaper-2021-02-09-v1.0.pdf) has the details.

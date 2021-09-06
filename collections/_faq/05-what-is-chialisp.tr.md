@@ -1,7 +1,7 @@
 ---
 lang: tr
 order: 5
-title: "Chialisp nedir?"
+title: "beetlisp nedir?"
 ---
 
-Chia, güçlü, denetlemesi kolay ve güvenli olan Chialisp adlı yeni geliştirilmiş, yenilikçi bir blockchain programlama diline sahiptir. Chialisp, kripto para birimlerinin vaat ettiği güvenlik, şeffaflık ve kullanım kolaylığının kilidini açacak üstün bir zincir üstü akıllı işlem geliştirme ortamıdır.
+beet, güçlü, denetlemesi kolay ve güvenli olan beetlisp adlı yeni geliştirilmiş, yenilikçi bir blockchain programlama diline sahiptir. beetlisp, kripto para birimlerinin vaat ettiği güvenlik, şeffaflık ve kullanım kolaylığının kilidini açacak üstün bir zincir üstü akıllı işlem geliştirme ortamıdır.

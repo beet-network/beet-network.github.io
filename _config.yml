@@ -7,30 +7,30 @@
 
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chia.net" # the base hostname & protocol for your site
+url: "https://beet.net" # the base hostname & protocol for your site
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
 
 # SEO settings
-title: Chia Network
+title: beet Network
 description: > # this means to ignore newlines until "baseurl:"
   A better blockchain and smart transaction platform which is more decentralized, more efficient, and more secure.
 twitter:
-  username: chia_project
+  username: beet_project
   card: summary
 facebook:
-  publisher: https://www.facebook.com/ChiaProject
-logo: /img/chia_logo.svg
+  publisher: https://www.facebook.com/beetProject
+logo: /img/beet_logo.svg
 social:
   links:
-    - https://twitter.com/chia_project
-    - https://www.facebook.com/ChiaProject
-    - https://instagram.com/chia_project
-    - https://www.linkedin.com/company/chia-network/
-    - https://github.com/Chia-Network
-    - https://medium.com/@chia.net
-    - https://keybase.io/team/chia_network.public
+    - https://twitter.com/beet_project
+    - https://www.facebook.com/beetProject
+    - https://instagram.com/beet_project
+    - https://www.linkedin.com/company/beet-network/
+    - https://github.com/beet-Network
+    - https://medium.com/@beet.net
+    - https://keybase.io/team/beet_network.public
 google_analytics_snippet: |
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157739092-1"></script>
@@ -45,7 +45,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://chia.net/android-chrome-384x384.png
+      image: https://beet.net/android-chrome-384x384.png
 
 collections_dir: collections
 collections:
